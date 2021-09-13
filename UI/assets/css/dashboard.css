@@ -1,0 +1,107 @@
+#statistics {
+    background-color: #444;
+    border-top: solid 6px #ffa200;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+#statistics h2{
+    color: #ffa200;
+}
+
+/* left top logo style */
+
+#left-toplogo{
+
+    background-color:#444;
+}
+
+/* end of section style */
+
+/* long topnav style */
+#left-toplong{
+    background-color: #444;
+}
+#bars{
+    color: #ffa200;
+}
+#member-notif {
+    color: #fff;
+}
+/* members cards */
+#carding{
+    border-left: solid 4px #444;
+    border-radius: 0px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+
+/* table holder styles*/
+
+#cardingtable{
+    border-top: solid 4px #444;
+    border-radius: 0px;
+
+}
+
+/* notification counter */
+
+#notificationcounter{
+    background-color: #4e6ebd;
+}
+
+/* left sidebar links on hover */
+
+/* #linksid :hover{
+    background-color: #444;
+    color: #ffa200;
+    
+} */
+
+
+/* main active link  */
+
+#main_assoc{
+    background-color: #444;
+    color: #ffa200;
+    border-left: solid 5px #ffa200;
+
+}
+#main_assoc span{
+    color: #ffa200;
+    font-size: 18px;
+
+}
+#main_assoc :hover{
+   background-color: #444444;
+
+}
+
+/* badge */
+
+#badging{
+    border-radius: 4px;
+}
+
+/* menu titles */
+
+.menu-title{
+    font-weight: bold;
+}
+
+/* group status icon style */
+#locked-group{
+    color: #FF5E6D;
+
+}
+#active-group{
+    color: #04B76B;
+
+}
+
+#pending-group{
+    color: #F5A623;
+
+}
+
+
+
+/* end of locked group style */

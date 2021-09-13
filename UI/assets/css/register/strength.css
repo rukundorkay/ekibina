@@ -1,0 +1,16 @@
+.short{
+	color:#d9534f;
+}
+.weak{
+	color:#5bc0de;
+}
+.good{
+	color:#428bca;
+}
+.strong{
+	color:#5cb85c;	
+}
+#strength{
+	font-weight:bold;
+	font-size:larger;
+}
